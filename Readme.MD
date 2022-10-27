@@ -60,7 +60,7 @@
 > <br>
 > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinesh1006&layout=compact&theme=light&hide_border=false" />
 > <img align="left" src="https://github-readme-stats.vercel.app/api?username=abinesh1006&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Sabare Victor's github stats" />
-> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabareh&" alt="Sabareh" /></p>
+> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abinesh1006&" alt="Abinesh" /></p>
 
 
 <!---
