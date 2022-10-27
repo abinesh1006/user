@@ -1,6 +1,6 @@
-> #### <h1>👋Sabare Victor Oketch </h1>
+> #### <h1>👋Abinesh Subramani</h1>
 > 
-> Data Scientist || Software Engineer || Data Analyst || Aspring A.I Engineer.
+> Cloud Engineer|| Software Developer || Devops Engineer || Aspring A.I Engineer.
 >
 ><h3 align="left">Connect with me:</h3>
 ><p align="left">
@@ -58,12 +58,12 @@
 >      </p>
 >
 > <br>
-> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabareh&layout=compact&theme=light&hide_border=false" />
-> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sabareh&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Sabare Victor's github stats" />
+> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abinesh1006&layout=compact&theme=light&hide_border=false" />
+> <img align="left" src="https://github-readme-stats.vercel.app/api?username=abinesh1006&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Sabare Victor's github stats" />
 > <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabareh&" alt="Sabareh" /></p>
 
 
 <!---
-Sabareh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Abinesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
